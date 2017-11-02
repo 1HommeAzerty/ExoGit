@@ -1,2 +1,3 @@
 # ExoGit
-Exercice Git OpenClassrrom
+Exercice Git OpenClassroom
+Ci-joint divers fichiers
