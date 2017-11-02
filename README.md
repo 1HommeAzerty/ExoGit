@@ -1,1 +1,2 @@
 # ExoGit
+Exercice Git OpenClassrrom
